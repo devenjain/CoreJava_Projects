@@ -1,0 +1,95 @@
+Name : a
+Time  : 2020/07/10  16:13:23
+Movie Name : Dil Bechara
+Total number of tickets : 2
+Total Amount : 200Name : abc
+Time  : 2020/07/10  16:13:58
+Movie Name : Dil Bechara
+Total number of tickets : 10
+Total Amount : 1000Name : az
+Time  : 2020/07/10  16:14:22
+Movie Name : Dil Bechara
+Total number of tickets : 3
+Total Amount : 300Name : q
+Time  : 2020/07/10  16:14:41
+Movie Name : Dil Bechara
+Total number of tickets : 1
+Total Amount : 100Name : gh
+Time  : 2020/07/10  16:16:34
+Movie Name : Dil Bechara
+Total number of tickets : 5
+Total Amount : 500
+
+Name : samir
+Time  : 2020/07/10  16:19:12
+Movie Name : Dil Bechara
+Total number of tickets : 2
+Total Amount : 200
+
+Name : qwe
+Time  : 2020/07/10  16:39:33
+Movie Name : Dil Bechara
+Total number of tickets : 5
+Total Amount : 500
+********************************************************Name : fgh
+Time  : 2020/07/10  16:39:54
+Movie Name : Dil Bechara
+Total number of tickets : 3
+Total Amount : 300
+********************************************************
+Name : xyz
+Time  : 2020/07/10  17:00:54
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 3
+Total Amount : 360
+********************************************************/n/n
+Name : ert
+Time  : 2020/07/10  17:03:57
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 5
+Total Amount : 600
+********************************************************/n/n
+Name : abcd
+Time  : 2020/07/10  18:12:58
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 5
+Total Amount : 600
+********************************************************/n/n
+Name : deven
+Time  : 2020/07/12  00:06:58
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 5
+Total Amount : 600
+********************************************************/n/n
+Name : a
+Time  : 2020/07/12  00:11:08
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 2
+Total Amount : 240
+********************************************************
+Name : qwer
+Time  : 2020/07/12  00:13:42
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 5
+Total Amount : 600
+********************************************************
+Name : rtsgs
+Time  : 2020/07/12  00:14:08
+Movie Name : Dil BecharaShow Timing : 1:00pm
+Total number of tickets : 2
+Total Amount : 240
+********************************************************
+Name : charmi
+Time  : 2020/07/12  15:35:27
+Movie Name : Dil Bechara
+Show Timing : 3:30pm
+Total number of tickets : 12
+Total Amount : 1800
+********************************************************
+Name : xman
+Time  : 2020/07/12  15:40:54
+Movie Name : Angrezi Medium
+Show Timing : 10am
+Total number of tickets : 5
+Total Amount : 500
+********************************************************
